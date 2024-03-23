@@ -10,7 +10,7 @@ section{
     height: 100vh;
     background-image: linear-gradient(
         rgba(0,0,0,0.4), rgba(0,0,0,0.4)
-    ), url(/Images/wallpaperbetter\ \(3\).jpg);
+    ), url("/Images/wallpaperbetter\ \(3\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -25,7 +25,7 @@ section{
 .s1{
     background-image: linear-gradient(
         rgba(0,0,0,0.4), rgba(0,0,0,0.4)
-    ), url(/Images/wallpaperbetter\ \(4\).jpg);
+    ), url("/Images/wallpaperbetter\ \(4\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -33,7 +33,7 @@ section{
 .s2{
     background-image: linear-gradient(
         rgba(0,0,0,0.4), rgba(0,0,0,0.4)
-    ), url(/Images/wallpaperbetter\ \(2\).jpg);
+    ), url("/Images/wallpaperbetter\ \(2\).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -41,7 +41,7 @@ section{
 .s3{
     background-image: linear-gradient(
         rgba(0,0,0,0.4), rgba(0,0,0,0.4)
-    ), url(/Images/wallpaperbetter.jpg);
+    ), url("/Images/wallpaperbetter.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
